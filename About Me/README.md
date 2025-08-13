@@ -38,7 +38,7 @@ I help create high performing teams by:
 - Providing context, being curious, and focusing on value, to enable us to make the best decisions we can.
 
 # What do I value most?
-Values are a queue in that we make decisions based on their order of importance. They are the compass which helps me make navigate and make better decisions.
+Values are a queue in that we make decisions based on their order of importance. They are the compass which helps me navigate to make better decisions.
 
 ## My values:
 1. <b>Family / Work-Life Harmony</b>. I'm super passionate and love what I do, but at the end of the day I'm much more than my work.  So finding the right harmony between life and work is essential to preventing burnout.
