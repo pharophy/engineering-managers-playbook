@@ -1,3 +1,9 @@
+# Management README
+
+This document is my manager user guide. It is intended to help teammates, peers, and leaders understand how I operate so we can work together more effectively.
+
+If you are here as a recruiter or hiring manager, start with the [repo landing page](../README.md) for the high-level overview and the [work samples](./Work%20Samples.md) for concrete examples of what I have built.
+
 # Motivation for this document
 This document is my user guide.  It should serve to help you understand me better and help us work better together. The faster we know get to know each other and how we like to work, the faster we'll be able to dig deep into the topics that matter most.
 
@@ -9,7 +15,7 @@ This document is not meant to excuse any failings that I have, nor is it meant t
 
 # Outside the Office
 When I'm not working you can find me doing any of the following:
-- Spending time with family and friends.  I have a wife and a son who is currently 2.5 years old.
+- Spending time with family and friends.  I have a wife and a son who is currently 4.5 years old.
 - Outdoors activities: hiking, biking, camping, etc. 
 - Playing guitar and writing music.
 - Bouldering and yoga, although I'm a beginner at both of these.
