@@ -31,7 +31,7 @@ Together, these documents are meant to show three things:
 
 ## Additional Background
 
-- Podcast and interviews: https://www.hustlersforacause.com/
+- Podcast and interviews: <a href="https://www.hustlersforacause.com/" target="_blank">Hustlers for a Cause</a>
 - GitHub profile: https://github.com/pharophy
 
 ## Navigation
